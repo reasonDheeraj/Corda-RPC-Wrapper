@@ -1,4 +1,4 @@
-package com.principal.blockchain.cordaapi;
+package com.blockchain.cordaapi;
 
 import net.corda.client.rpc.CordaRPCClient;
 import net.corda.client.rpc.CordaRPCConnection;

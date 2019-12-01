@@ -1,4 +1,4 @@
-package com.principal.blockchain.cordaapi;
+package com.blockchain.cordaapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

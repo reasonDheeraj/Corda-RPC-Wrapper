@@ -1,4 +1,4 @@
-package com.principal.blockchain.cordaapi;
+package com.blockchain.cordaapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
